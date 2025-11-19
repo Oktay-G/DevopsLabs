@@ -13,7 +13,7 @@ jobs:
       - name: Checkout code 
         uses: actions/checkout@v4 
         with: 
-          repository: PXL-2TIN-DevOps-Resources/calculator-app
+          repository: DevopsLabs
 finished 
  
       - name: Setup Node.js 
